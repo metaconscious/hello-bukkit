@@ -1,0 +1,4 @@
+name: HelloBukkit
+version: '${version}'
+main: dev.metaconscious.hellobukkit.HelloBukkit
+api-version: 1.19
